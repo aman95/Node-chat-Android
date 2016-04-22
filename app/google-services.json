@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "nodechat-df624",
+    "project_number": "968377351186",
+    "name": "NodeChat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968377351186:android:4c106178e2f78f48",
+        "client_id": "android:com.aman_kumar.nodechat",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.aman_kumar.nodechat",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
